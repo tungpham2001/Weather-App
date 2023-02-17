@@ -11,7 +11,7 @@ body{
     display: flex;
     align-items: center;
     justify-content: center;
-    background: #06283D;
+    background: #6cb6e4;
 }
 
 .container{
@@ -48,6 +48,7 @@ body{
     font-weight: 500;
     color: #06283D;
     text-transform: capitalize;
+    opacity: 50%;
 }
 
 .search-box button{
